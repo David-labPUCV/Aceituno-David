@@ -1,0 +1,8 @@
+    1  mkdir TareaFinal
+    2  cd TareaFInal
+    3  touch miarchivo.txt
+    4  echo "Hola mundo" > miarchivo.txt
+    5  cat miarchivo.txt
+    6  cat El-arriero.txt
+    7  head El-arriero.txt
+    8  grep -o "vaquitas" El-arriero.txt | wc -l
